@@ -9,7 +9,7 @@ interface MovieCardProps {
   runtime: string;
 }
 
-export function MovieCard(props: MovieCardProps) {
+export function MovieCard(props:MovieCardProps) {
   return (
     <div className="movie-card">
       <img
