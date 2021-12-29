@@ -6,7 +6,7 @@ https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0
 ## :camera: Layout
 
 <div>
-   <img src="https://github.com/jotaEmeCortat/Ignite-React/blob/watch_me/03%20watch_me/assets/watch_me.png?raw=true" width="400px" />
+   <img src="https://github.com/jotaEmeCortat/watch_me/blob/main/assets/watch_me.png" width="400px" />
 </div>
 
 &nbsp;
